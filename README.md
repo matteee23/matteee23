@@ -25,8 +25,11 @@ I love diving into new topics, experimenting and building creative ideas.
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matteee23&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matteee23&layout=compact&theme=tokyonight" height="160"/>
+<p align="center">
+  <img src="https://github-readme-stats-matteorossi.vercel.app/api?username=matteee23&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats-matteorossi.vercel.app/api/top-langs/ username=matteee23&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
 </p>
 
 ---
