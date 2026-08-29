@@ -23,8 +23,8 @@ I love diving into new topics, experimenting and building creative ideas.
 ---
 
 ### 🚀 Important Projects
-* **Fake news analysis** - Multimodal workspace capable of labeling, through the use of different VLMs, news from related datasets (Bachelor Thesis)
-* **[HermeSys](https://github.com/theMarck/HermeSys)** — Edge-to-Cloud reliable architecture for transporting various types of data
+* **Fake news analysis** - Multimodal workspace capable of labeling, through the use of different VLMs, news from related datasets (Bachelor Thesis) *Code available upon request*
+* **[HermeSys](https://github.com/theMarck/HermeSys)** - Edge-to-Cloud reliable architecture for transporting various types of data
 
 ---
 
