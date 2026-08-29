@@ -29,7 +29,7 @@ Computer Science Master Student who enjoys exploring different programming field
 
 ## 🌐 Networking
 * 💻 **Website & Portfolio:** [matteee23.github.io](https://matteee23.github.io)
-* 📬 **Get in touch:** [atzenimatteo728@gmail.com]
+* 📬 **Get in touch:** atzenimatteo728@gmail.com
 
 ---
 > “The Analytical Engine has no pretensions whatever to originate anything. It can do whatever we know how to order it to perform.” - Ada Lovelace (1843)
