@@ -30,7 +30,7 @@ I love diving into new topics, experimenting and building creative ideas.
 
 ## 🌐 Networking
 * 💻 **Website & Portfolio:** [matteee23.github.io](https://matteee23.github.io)
-* 📬 **Get in touch:** atzenimatteo728@gmail.com
+* 📬 **Get in touch:** [atzenimatteo728@gmail.com]
 
 ---
-<p align="center" style="color:red"> “The Analytical Engine has no pretensions whatever to originate anything. It can do whatever we know how to order it to perform.” - Ada Lovelace (1843)</p>
+> “The Analytical Engine has no pretensions whatever to originate anything. It can do whatever we know how to order it to perform.” - Ada Lovelace (1843)
