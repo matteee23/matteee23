@@ -3,8 +3,7 @@
 <h1 align="center">Beni Beniu, I'm Matteo 👋</h1>
 
 ## 👨‍💻 About Me
-Computer Science Master Student who enjoys exploring different programming fields, including areas **outside Computer Science itself**.  
-I love diving into new topics, experimenting and building creative ideas.
+Computer Science Master Student who enjoys exploring different programming fields, including areas **outside Computer Science itself**. I love diving into new topics, experimenting and building creative ideas.
 
 ---
 
