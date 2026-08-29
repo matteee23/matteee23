@@ -23,7 +23,7 @@ I love diving into new topics, experimenting and building creative ideas.
 ---
 
 ### 🚀 Important Projects
-* **[Fake news detection]** - Workspace capable of labeling, through the use of different VLMs, news from related datasets (Bachelor Thesis)
+* **Fake news analysis** - Multimodal workspace capable of labeling, through the use of different VLMs, news from related datasets (Bachelor Thesis)
 * **[HermeSys](https://github.com/theMarck/HermeSys)** — Edge-to-Cloud reliable architecture for transporting various types of data
 
 ---
@@ -33,5 +33,4 @@ I love diving into new topics, experimenting and building creative ideas.
 * 📬 **Get in touch:** atzenimatteo728@gmail.com
 
 ---
-[!WARNING]
-<p align="center"> “The Analytical Engine has no pretensions whatever to originate anything. It can do whatever we know how to order it to perform.” - Ada Lovelace (1843)</p>
+<p align="center" style="color:red"> “The Analytical Engine has no pretensions whatever to originate anything. It can do whatever we know how to order it to perform.” - Ada Lovelace (1843)</p>
