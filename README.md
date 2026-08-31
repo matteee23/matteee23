@@ -3,7 +3,7 @@
 <h1 align="center">Beni Beniu, I'm Matteo 👋</h1>
 
 ## 👨‍💻 About Me
-Computer Science Master Student who enjoys exploring different programming fields, including areas **outside Computer Science itself**. I love diving into new topics, experimenting and building creative ideas.
+Computer Science Master's Student who enjoys building Machine Learning and Deep Learning projects that apply computer science to fields I'm passionate about. I like diving into new topics and experimenting, turning ideas into reality.
 
 ---
 
@@ -22,13 +22,7 @@ Computer Science Master Student who enjoys exploring different programming field
 ---
 
 ### 🚀 Important Projects
-* **Fake news analysis** - Multimodal workspace capable of labeling, through the use of different VLMs, news from related datasets (Bachelor Thesis) *Code available upon request*
-* **[HermeSys](https://github.com/theMarck/HermeSys)** - Edge-to-Cloud reliable architecture for transporting various types of data
-
----
-
-## 🌐 Networking
-* 📬 **Get in touch:** atzenimatteo728@gmail.com
-
+* **Fake news analysis** - Multimodal framework using VLMs to detect fake news, benchmarked against the THEMIS model.
+* **[HermeSys](https://github.com/theMarck/HermeSys)** - Edge-to-Cloud architecture for distributed data services, built with my team during the Cloud-Edge-IoT Open-Source Hackathon (🥉 3rd place, Track COP-PILOT).
 ---
 > “The Analytical Engine has no pretensions whatever to originate anything. It can do whatever we know how to order it to perform.” - Ada Lovelace (1843)
