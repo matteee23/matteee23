@@ -7,6 +7,16 @@ Computer Science Master's Student who enjoys building Machine Learning and Deep 
 
 ---
 
+## Current Focus
+
+* Multimodal AI (CLIP, BLIP, VLMs, generative AIs and more...);
+* Fashion AI: retrieval, similarity search, outfit compatibility;
+* Machine and Deep Learning pipelines for real-world datasets;
+* Improving my online presence for future collaborations, projects and ambitions;
+* Preparing the foundations for my Master's Thesis in AI.
+  
+---
+
 ## 🛠️ Tech Stack
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -22,7 +32,14 @@ Computer Science Master's Student who enjoys building Machine Learning and Deep 
 ---
 
 ### 🚀 Important Projects
-* **Fake news analysis** - Multimodal framework using VLMs to detect fake news, benchmarked against the THEMIS model.
-* **[HermeSys](https://github.com/theMarck/HermeSys)** - Edge-to-Cloud architecture for distributed data services, built with my team during the Cloud-Edge-IoT Open-Source Hackathon (🥉 3rd place, Track COP-PILOT).
+* **Bachelor's Thesis: Multimodal Fake News Detection** - Multimodal framework using VLMs to detect fake news, benchmarked against the THEMIS model (*repository private: available upon request*).
+* **[HermeSys](https://github.com/theMarck/HermeSys)** - Edge-to-Cloud architecture for distributed data services, built with my team during the Cloud-Edge-IoT Open-Source Hackathon (*3rd place, track COP-PILOT*).
+* **[TUIDE: Linguistic Code Switching & Sentiment Analysis](https://github.com/matteee23/TUIDE_Linguistic_Code_Switching_and_Sentiment_Analysis)** - NLP analysis of the multilingual identity of the K-pop novel group TUIDE.
 ---
+
+### 👤 Contacts
+* LinkedIn: *coming soon...*
+* Email: atzenimatteo728@gmail.com
+---
+
 > “The Analytical Engine has no pretensions whatever to originate anything. It can do whatever we know how to order it to perform.” - Ada Lovelace (1843)
