@@ -37,7 +37,7 @@ Computer Science Master's Student who likes building Machine Learning and Deep L
   
 ---
 ### 👤 Contacts
-* LinkedIn: *coming soon...*
+* LinkedIn: https://www.linkedin.com/in/matteo-atzeni-657431433/
 * Email: atzenimatteo728@gmail.com
   
 ---
