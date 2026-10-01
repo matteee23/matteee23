@@ -3,7 +3,7 @@
 <h1 align="center">Beni Beniu, I'm Matteo 👋</h1>
 
 ## About Me
-Computer Science Master's Student who likes building Machine Learning and Deep Learning projects that apply Computer Science to the fields I'm passionate about, especially Fashion and Music. I enjoy exploring, experimenting and creating multimodal systems that combine images and text to understand trends, identities and behaviours.
+Computer Science Master's Student who likes building Machine Learning and Deep Learning projects that apply Informatics to the fields I'm passionate about, especially Fashion and Music. I enjoy exploring, experimenting and creating multimodal systems that combine images and text to understand trends, identities and behaviours.
 
 ---
 ## Current Focus
