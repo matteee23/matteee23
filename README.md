@@ -37,7 +37,7 @@ Computer Science Master's Student who likes building Machine Learning and Deep L
 ---
 ### 👤 Contacts
 * LinkedIn: https://www.linkedin.com/in/matteo-atzeni-657431433/
-* Email: matze29@yahoo.com
+* Email: atzenimatteo728@gmail.com
   
 ---
 > “The Analytical Engine has no pretensions whatever to originate anything. It can do whatever we know how to order it to perform.” - Ada Lovelace (1843)
